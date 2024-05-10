@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxCollapsedPaddingTop">0dp</item>
+        <item name="boxBackgroundColor">#fff</item>
+        <item name="boxBackgroundMode">filled</item>
+    </style>
+</resources>
