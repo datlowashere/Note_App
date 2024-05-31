@@ -47,6 +47,7 @@
         app:helperTextEnabled="true">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edContent"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textMultiLine"
